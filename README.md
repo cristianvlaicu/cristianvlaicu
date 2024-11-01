@@ -13,7 +13,7 @@
 - 📖 I’m currently learning developping, programming and new tech skills.
 - 💬 Ask me to help and maybe we will achive big results!!
 - 😄 Hobbies: Music, Soccer, Lectures, Learn...
-- ⚡ Fun fact: I know nothig about technologie 🤣🤣
+- ⚡ Fun fact: I know nothing about technologie 🤣🤣
 
 ---
 
