@@ -9,15 +9,15 @@
 </p>
 
 <p align = "center">
-   - 🔭 I’m studying Full Stack Development in Conquer Blocks Academy.
+   🔭 I’m studying Full Stack Development in Conquer Blocks Academy.
       
-   - 📖 I’m currently learning developping, programming and new tech skills.
+   📖 I’m currently learning developping, programming and new tech skills.
      
-   - 💬 Ask me to help and maybe we will achive big results!!
+   💬 Ask me to help and maybe we will achive big results!!
      
-   - 😄 Hobbies: Music, Soccer, Lectures, Learn...
+   😄 Hobbies: Music, Soccer, Lectures, Learn...
      
-   - ⚡ Fun fact: I know nothing about technologie 🤣🤣   
+   ⚡ Fun fact: I know nothing about technologie 🤣🤣   
 </p>
 
 <a href="https://www.linkedin.com/in/cristian-vlaicu-solomon-4b9030238/" target="_blank"><img alt="LinkedIn @cristianvlaicu" align="center" src="https://img.shields.io/badge/LINKEDIN-blue.svg?logo=linkedin&style=for-the-badge" title="LinkedIn"/></a>
