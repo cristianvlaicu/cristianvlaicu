@@ -8,13 +8,13 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Developer+Begginer%2C+Truck+Driver;Love+to+learn+technology+skills;Like+to+help+and+participate+in+projects;Always+learning+new+things&center=true&width=500&height=50"></a>
 </p>
 
-
+<p align = "center">
 - 🔭 I’m studying Full Stack Development in Conquer Blocks Academy. 
 - 📖 I’m currently learning developping, programming and new tech skills.
 - 💬 Ask me to help and maybe we will achive big results!!
 - 😄 Hobbies: Music, Soccer, Lectures, Learn...
-- ⚡ Fun fact: I know nothing about technologie 🤣🤣
-
+- ⚡ Fun fact: I know nothing about technologie 🤣🤣   
+</p>
 ---
 
 <a href="https://www.linkedin.com/in/cristian-vlaicu-solomon-4b9030238/" target="_blank"><img alt="LinkedIn @cristianvlaicu" align="center" src="https://img.shields.io/badge/LINKEDIN-blue.svg?logo=linkedin&style=for-the-badge" title="LinkedIn"/></a>
