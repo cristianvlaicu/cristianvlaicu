@@ -24,7 +24,7 @@
    - ⚡ Fun fact: I know nothing about technologie 🤣🤣   
 </p>
 
-<a href="https://www.linkedin.com/in/cristian-vlaicu-solomon-4b9030238/" target="_blank"><img alt="LinkedIn @cristianvlaicu" align="center" src="https://img.shields.io/badge/LINKEDIN-blue.svg?logo=linkedin&style=for-the-badge" title="LinkedIn"/></a>
+<p align = "center"><a href="https://www.linkedin.com/in/cristian-vlaicu-solomon-4b9030238/" target="_blank"><img alt="LinkedIn @cristianvlaicu" align="center" src="https://img.shields.io/badge/LINKEDIN-blue.svg?logo=linkedin&style=for-the-badge" title="LinkedIn"/></a>
 <a href="https://www.instagram.com/cristianvlaicu/" target="_blank"><img alt="Instagram" align="center" src="https://img.shields.io/badge/INSTAGRAM-orange.svg?logo=instagram&style=for-the-badge" /></a>
 <a href="https://github.com/cristianvlaicu" target="_blank"><img alt="GitHub" align="center" src="https://img.shields.io/badge/GITHUB-black.svg?logo=github&logoColor=white&style=for-the-badge" title="GitHub"/></a>
-<a href="https://discord.com/users/1280994390151663626" target="_blank"><img alt="Discord" align="center" src="https://img.shields.io/badge/Discord-gray.svg?logo=discord&logoColor=white&style=for-the-badge" title="Discord"/></a>
+<a href="https://discord.com/users/1280994390151663626" target="_blank"><img alt="Discord" align="center" src="https://img.shields.io/badge/Discord-gray.svg?logo=discord&logoColor=white&style=for-the-badge" title="Discord"/></a></p>
