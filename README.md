@@ -9,10 +9,14 @@
 </p>
 
 <p align = "center">
-- 🔭 I’m studying Full Stack Development in Conquer Blocks Academy. 
+- 🔭 I’m studying Full Stack Development in Conquer Blocks Academy.
+   
 - 📖 I’m currently learning developping, programming and new tech skills.
+  
 - 💬 Ask me to help and maybe we will achive big results!!
+  
 - 😄 Hobbies: Music, Soccer, Lectures, Learn...
+  
 - ⚡ Fun fact: I know nothing about technologie 🤣🤣   
 </p>
 ---
